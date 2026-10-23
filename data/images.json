@@ -1,0 +1,100 @@
+{
+  "Koloseum": {
+    "src": "images/koloseum.jpg",
+    "credit": "FeaturedPics, CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "article": "Colosseum",
+    "alt": "Koloseum"
+  },
+  "Forum Romanum i Palatyn": {
+    "src": "images/forum.jpg",
+    "credit": "Wolfgang Moroder, CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Foro_Romano_Musei_Capitolini_Roma.jpg",
+    "article": "Roman Forum",
+    "alt": "Forum Romanum i Palatyn"
+  },
+  "Piazza Venezia / Vittoriano": {
+    "src": "images/venezia.jpg",
+    "credit": "Max_Ryazanov, CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vittoriano_Altare_della_Patria_2013-09-16.jpg",
+    "article": "Victor Emmanuel II Monument",
+    "alt": "Piazza Venezia / Vittoriano"
+  },
+  "Panteon": {
+    "src": "images/panteon.jpg",
+    "credit": "NikonZ7II, CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg",
+    "article": "Pantheon, Rome",
+    "alt": "Panteon"
+  },
+  "Piazza Navona": {
+    "src": "images/navona.jpg",
+    "credit": "NikonZ7II, CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_Navona_(Rome)_at_night.jpg",
+    "article": "Piazza Navona",
+    "alt": "Piazza Navona"
+  },
+  "Opcjonalnie Castel Sant'Angelo": {
+    "src": "images/castel.jpg",
+    "credit": "Livioandronico2013, CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castel_Sant%27Angelo_at_Night.jpg",
+    "article": "Castel Sant'Angelo",
+    "alt": "Opcjonalnie Castel Sant'Angelo"
+  },
+  "Opcjonalnie Trastevere": {
+    "src": "images/trastevere.jpg",
+    "credit": "Jensens, Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Santa_Maria_in_Trastevere_fountain.jpg",
+    "article": "Trastevere",
+    "alt": "Opcjonalnie Trastevere"
+  },
+  "Bazylika św. Piotra": {
+    "src": "images/bazylika.jpg",
+    "credit": "Alvesgaspar, CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+    "article": "St. Peter's Basilica",
+    "alt": "Bazylika św. Piotra"
+  },
+  "Plac św. Piotra": {
+    "src": "images/placpiotra.jpg",
+    "credit": "Diliff, CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg",
+    "article": "St. Peter's Square",
+    "alt": "Plac św. Piotra"
+  },
+  "Muzea Watykańskie i Kaplica Sykstyńska": {
+    "src": "images/muzea.jpg",
+    "credit": "Snowdog, CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sistina-interno.jpg",
+    "article": "Sistine Chapel",
+    "alt": "Muzea Watykańskie i Kaplica Sykstyńska"
+  },
+  "Piazza del Popolo": {
+    "src": "images/popolo.jpg",
+    "credit": "Apaleutos25, CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_del_Popolo,_Roma_(Rome).jpg",
+    "article": "Piazza del Popolo",
+    "alt": "Piazza del Popolo"
+  },
+  "Pincio": {
+    "src": "images/pincio.jpg",
+    "credit": "Sonse, CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Terrazza_del_Pincio_(46397854832).jpg",
+    "article": "Pincian Hill",
+    "alt": "Pincio"
+  },
+  "Schody Hiszpańskie": {
+    "src": "images/schody.jpg",
+    "credit": "Arnaud 25, CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_di_Spagna_(Rome)_0004.jpg",
+    "article": "Spanish Steps",
+    "alt": "Schody Hiszpańskie"
+  },
+  "Fontanna di Trevi": {
+    "src": "images/trevi.jpg",
+    "credit": "NikonZ7II, CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg",
+    "article": "Trevi Fountain",
+    "alt": "Fontanna di Trevi"
+  }
+}
